@@ -1,1 +1,1 @@
-My First Web Development Project
+Hosting a Personal Site with GitHub Pages
